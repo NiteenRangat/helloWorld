@@ -1,4 +1,6 @@
 <html>
-<head>My  </head>
+<head>
+<title>My Sample HTML Page</title>
+</head>
 <body><h2> First Program on Github </h2></body>
 </html>
