@@ -2,5 +2,8 @@
 <head>
 <title>My Sample HTML Page</title>
 </head>
-<body><h2> First Program on Github </h2></body>
+<body>
+<h2> First Program on Github </h2>
+<marquee>My First HTML Program</marquee>
+</body>
 </html>
